@@ -1,0 +1,17 @@
+.vscode/
+.idea/
+.vs/
+.emacs/
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.cache/
+*.tmp
+*.bak
+*.swp
+*.db
+*.json
+*.sqlite3
